@@ -4,7 +4,7 @@ parfor i = 1:n
     subject = subjects(i).name;
     sprintf('Processing file %s (%d/%d)\n',subject,i,n)
     DamageFileName = [lesiondir filesep subject filesep subject '_cropped.nii'];
-    StrSave = [outdir filesep visit filesep num2str(atlassize) filesep subject];
+    StrSave = [outdir filesep num2str(atlassize) filesep subject];
     if ~exist(StrSave,'dir'); mkdir(StrSave); end
     %copyfile(T1file, StrSave)
     

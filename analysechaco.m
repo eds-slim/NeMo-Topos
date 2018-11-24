@@ -8,7 +8,7 @@ CD.labels = cell(1,atlassize);
 for i = 1:n
     subject = subjects(i).name;
     sprintf('Processing file %s (%d/%d)\n',subject,i,n)    
-    StrSave = [outdir filesep visit filesep num2str(atlassize) filesep subject];
+    StrSave = [outdir filesep num2str(atlassize) filesep subject];
     data=load([StrSave filesep 'ChaCo' num2str(atlassize) '_MNI.mat']);
     
     temp=struct2table(data.ChaCoResults);
@@ -25,4 +25,4 @@ fclose(fid);
 CD.labels = data{1};
 
 %%
-save(['ChaCo' visit num2str(atlassize) '.mat'],'subjects','CD')
+save(['ChaCo' num2str(atlassize) '.mat'],'subjects','CD')

@@ -1,4 +1,4 @@
-load('ChaCoV3116.mat')
+load('ChaCo86.mat')
 
 %% 
 figure
@@ -23,6 +23,6 @@ pos = get(gca, 'Position');
 pos = [(i-1)/3+0.02, .1, .3, .45];
 set(gca, 'Position', pos);
 ax=gca;
-ax.FontSize=4;
+ax.FontSize=8;
 ax.TitleFontSizeMultiplier=2;
 end

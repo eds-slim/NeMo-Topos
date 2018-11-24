@@ -1,0 +1,62 @@
+,Lesioned Hemisphere,Ort,Gefäßpathologie / Sonstiges,,NIHSS T1,Light touch total affected hemi T1,
+,"1=rechts, 2=links",,,,grob,grob,
+1001,,,CT-Bild only,1001,,,B
+1002,R,dorsolat. Medulla oblongata,,1002,1,30,B
+1003,R,"Thalamus, Posterior",,1003,2,30,B
+1004,R,Embolie aller drei Gefäßterritorien,M1-Stenose rechts,1004,6,20,B
+1005,R,"Mediateilinfarkt, Posterior",,1005,4,30,B
+1006,L,Gyrus präcentralis,,1006,2,30,B
+1007,R,Thalamus,,1007,1,30,B
+1008,R,"Mediateilinfarkt rechts, Thalamuslakune links",,1008,11,6,B
+1009,R,"Kapselschenkel, sehr klein und flau",DD somatoform,1009,1,30,B
+1010,L,Posteriorteilinfarkt,,1010,1,30,B
+1011,L,Periventrikulär frontal,,1011,0,30,B
+1012,L,"Pons links, sowie BIHEMISPHÄRIELL",,1012,2,30,B
+1013,R,"Pons, paramedian",,1013,3,30,W
+1014,L,"Mediateilinfarkt, hintere Grenzzone",ACI-Stenose links,1014,1,24,W
+1015,R,"Pons rechts, Posterior BEIDSEITS",,1015,0,30,W
+1016,R,Caudatus,M1-Verschluss,1016,3,30,W
+1017,L,temporal,ACI/M1-Stenose links,1017,1,30,W
+1018,R,Caudatus,,1018,3,28,W
+1019,L,ThalamusBLUTUNG,CT-Bild only,1019,14,0,W
+1020,R,"Pons, paramedian",,1020,2,30,W
+1021,L,"Pons, paramedian",,1021,10,30,W
+1022,R,dorsolat. Medulla oblongata,V4-Segmentstenose,1022,2,30,W
+1023,R,Marklager,"sehr klein, eher beidseits",1023,0,30,W
+1024,R,Corona radiata,,1024,1,28,W
+1025,R,Kapselschenkel,,1025,0,30,W
+1026,L,Periventrikulär,,1026,1,30,W
+1027,L,"Caudatus, Insula",,1027,2,30,W
+1028,R,multifokal Mediastromgebiet,,1028,2,30,W
+1029,R,Kapselschenkel,,1029,1,30,W
+1030,R,Mesenzephalon,DD entzündlich,1030,1,16,W
+1031,R,Caudatus,,1031,1,30,W
+1032,L,Kapselschenkel,,1032,5,30,W
+1033,R,"Parietal, Zentralregion",M1-Verschluss rechts distal,1033,7,2,W
+1034,R,Thalamus,,1034,0,30,W
+1035,L,Marklager,,1035,0,30,W
+1036,L,Mediateilinfarkt,ACI-Verschluss links,1036,8,6,W
+1037,L,"Posterior, Thalamus",P2-Verschluss,1037,3,30,W
+1038,L,"Kapselschenkel, Caudatus",,1038,2,30,W
+1039,R,Kapselschenkel,,1039,4,30,W
+1040,R,Mediateilinfarkt,,1040,11,8,W
+1041,R,Thalamokapsulär,,1041,2,30,W
+1042,R,"Pons, paramedian",,1042,1,24,W
+1043,L,"supratentoriell subkortikal, sehr klein",,1043,1,30,W
+1044,L,dorsolat. Medulla oblongata,,1044,2,26,W
+1045,R,Mediateilinfarkt,,1045,6,23,W
+1046,L,Parietal,,1046,1,28,W
+1047,R,Posterior,,1047,3,30,W
+1048,R,Mediateilinfarkt,M3-Astverschluss,1048,3,30,W
+1049,R,"Frontal, Parietal, Marklager",,1049,1,29,W
+1050,R,"Zentral, Insula",,1050,2,28,W
+1051,R,"Parietal, Temporoinsulär, Mediateilinfarkt",,1051,1,28,W
+1052,R,"Pons, paramedian",,1052,4,29,W
+1053,R,Mediateilinfarkt,,1053,2,21,W
+1054,R,Media,ACI-Verschluss rechts,1054,19,2,W
+1055,R,Stammganglien,M1-Verschluss rechts,1055,7,13,W
+1056,L,dorsolat. Medulla oblongata,,1056,4,30,W
+1057,L,"Temporal, Okzipital",,1057,1,30,W
+1058,L,Mesenzephalon,,1058,0,30,W
+1059,L,Media,Carotis-T-Verschluss links,1059,21,0,W
+1060,R,"Kapselschenkel, Caudatus",,1060,15,9,W

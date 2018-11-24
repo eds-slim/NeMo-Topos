@@ -1,16 +1,15 @@
 
 %atlassize = 116;
-%visit='V3'; % or 'V3'.
 
 outdir = fileparts(which('computechaco.m'));
-basedir = '/mnt/data/WakeUpNemo_demo';
-lesiondir = [basedir filesep visit filesep num2str(atlassize)];
+basedir = '/mnt/data/ToposNemo';
+lesiondir = [basedir filesep num2str(atlassize)];
 
 cd(outdir)
 % location of tractogram data
 startup_varsonly
-main_dir = [start_dir filesep '..' filesep 'Tractograms' filesep];
-%main_dir = '/mnt/data/Tractograms/';
+%main_dir = [start_dir filesep '..' filesep 'Tractograms' filesep];
+main_dir = '/mnt/data/Tractograms/';
 nTract = numel(dir([main_dir 'FiberTracts116_MNI_BIN' filesep 'e*']));
 
 subjects = dir(lesiondir);
