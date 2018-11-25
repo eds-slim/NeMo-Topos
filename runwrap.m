@@ -1,4 +1,4 @@
 addpath(genpath('./'))
-for atlassize = [116];
+for atlassize = [86];
         run
 end
